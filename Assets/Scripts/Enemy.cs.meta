@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96aa529699d2af14e8f6117eac0ea50d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabPlayerExplosion: {fileID: 7702748724511631318, guid: 9d852980d3046f147899269f6221aaa8, type: 3}
+  - prefabPackageExplosion: {fileID: 7702748724511631318, guid: 2d4d632e1e6143d4696b92e8543efb31, type: 3}
+  - pivotPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
